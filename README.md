@@ -21,4 +21,12 @@ The project aims to create a robust, scalable, and compliant cloud-based applica
 
 #### Step 4: Compliance, Logging, and Database Management
 1. **Implement Infrastructure Compliance**: Using Chef InSpec or Ansible.
+2. **Centralized Logging**: Set up Fluentd and Elasticsearch.
+3. **Automate Database Backup and Recovery**: For cloud-native databases.
 
+#### Step 5: Monitoring, Reporting, and Continuous Improvement
+1. **Set Up Monitoring Tools**: Like Prometheus and Grafana.
+2. **Generate Compliance and Performance Reports**: Using Kibana or custom dashboards.
+3. **Regularly Review and Update**: Continuously improve scripts, infrastructure, and deployment strategies.
+
+.
